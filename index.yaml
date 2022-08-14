@@ -3,12 +3,12 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-14T00:22:16.753229557Z"
+    created: "2022-08-14T00:26:59.910693369Z"
     description: A Helm chart for Kubernetes
     digest: 39ba3470b2487dba27fe0cba8f247ad42b67b98d954d14bb420798d3e26667de
     name: mychart
     type: application
     urls:
-    - https://martinmlouis.github.io/crossplane/mychart-0.1.0.tgz
+    - https://github.com/martinmlouis/crossplane/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-14T00:22:16.75280586Z"
+generated: "2022-08-14T00:26:59.91039939Z"
